@@ -41,3 +41,4 @@ print(list(filter(lambda x: x.startswith('S'),['Stanford', 'Cal', 'UCLA'])))
 print(list(filter(lambda x: x%3 == 0 or x%5 == 0,range(20))))
 
 #Other Useful Tools (optional)
+print('test')
